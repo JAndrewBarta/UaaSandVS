@@ -1,0 +1,1 @@
+git clone https://dev-tvuaasdemosite.scm.s1.umbraco.io/1e36fdc8-d341-4b7c-a967-b6b7e3e6e4a8.git UaaSandVSDemo.Web
